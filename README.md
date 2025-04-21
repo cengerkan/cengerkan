@@ -18,7 +18,7 @@
 ## 🧰 Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,react,nextjs,js,html,css,bootstrap,git,github,vscode,pycharm,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,php,react,nextjs,js,html,css,bootstrap,git,github,vscode,pycharm,mongodb,mysql" />
 </p>
 
 ---
@@ -46,4 +46,4 @@
 <p align="center"> <a href="mailto:erkandeveciceng@gmail.com"><img src="https://img.shields.io/badge/Eposta-Darkblue?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://tr.linkedin.com/in/erkan-deveci-364257a8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cengerkan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 
 
-<p align="center"><i>“Sadelik, en yüksek karmaşıklık seviyesidir.” – Steve Jobs</i></p> ```
+<p align="center"><i>“Sadelik, en yüksek karmaşıklık seviyesidir.” – Steve Jobs</i></p>
