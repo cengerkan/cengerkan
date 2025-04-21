@@ -38,6 +38,15 @@
   </a>
 </div><br>
 
+<div align="center">
+  <a href="https://senin-linkin.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/METU_logo.svg/320px-METU_logo.svg.png" height="40">
+    <br>
+    <img src="https://img.shields.io/badge/AkademikBilgi%20Sistemi-Ziyaret%20Et-darkred?style=for-the-badge">
+  </a>
+</div>
+
+
 <p align="center"> <a href="mailto:erkandeveciceng@gmail.com"><img src="https://img.shields.io/badge/Eposta-Darkblue?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://tr.linkedin.com/in/erkan-deveci-364257a8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cengerkan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 
 
