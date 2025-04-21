@@ -63,11 +63,10 @@
     <img src="https://img.shields.io/badge/Eposta-darkblue?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
 
-<a href="mailto:erkandeveciceng@gmail.com">
-  <img src="https://img.shields.io/badge/Kurumsal%20Eposta-darkred?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:erkandeveci@osmaniye.edu.tr">
+  <img src="https://img.shields.io/badge/Kurumsal%20Eposta-2C2C2C?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-  
   <a href="https://tr.linkedin.com/in/erkan-deveci-364257a8">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
