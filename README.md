@@ -35,8 +35,8 @@
 
 
 <div align="center">
-  <a href="https://senin-linkin.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/tr/8/84/Osmaniye_Korkut_Ata_%C3%9Cniversitesi.jpg" height="40">
+  <a href="https://akbis.osmaniye.edu.tr/@erkandeveci" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/tr/8/84/Osmaniye_Korkut_Ata_%C3%9Cniversitesi.jpg" height="80">
     <br>
     <img src="https://img.shields.io/badge/AkademikBilgi%20Sistemi-Ziyaret%20Et-darkred?style=for-the-badge">
   </a>
