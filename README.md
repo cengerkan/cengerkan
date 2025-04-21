@@ -50,23 +50,21 @@
 
 
 <div align="center">
-  <a href="https://akbis.osmaniye.edu.tr/@erkandeveci" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/tr/8/84/Osmaniye_Korkut_Ata_%C3%9Cniversitesi.jpg" height="80">
-    <br>
-    <!--<img src="https://img.shields.io/badge/AkademikBilgi%20Sistemi-Ziyaret%20Et-darkred?style=for-the-badge">-->
+  <a href="https://akbis.osmaniye.edu.tr/@erkandeveci">
+    <img src="https://upload.wikimedia.org/wikipedia/tr/8/84/Osmaniye_Korkut_Ata_%C3%9Cniversitesi.jpg" height="80" style="border-radius:8px;"><br>
+    <img src="https://img.shields.io/badge/AkademikBilgi%20Sistemi-Ziyaret%20Et-darkred?style=for-the-badge">
   </a>
 </div>
 <br>
 
 <p align="center"> 
-  
-
-<a href="mailto:erkandeveciceng@gmail.com"><img src="https://img.shields.io/badge/Eposta-Darkblue?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-<a href="mailto:erkandeveci@osmaniye.edu.tr"> <img src="https://img.shields.io/badge/AkademikBilgi%20Sistemi-Ziyaret%20Et-darkred?style=for-the-badge"/></a> 
-<a href="https://tr.linkedin.com/in/erkan-deveci-364257a8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-
+  <a href="mailto:erkandeveciceng@gmail.com">
+    <img src="https://img.shields.io/badge/Eposta-darkblue?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
+  <a href="https://tr.linkedin.com/in/erkan-deveci-364257a8">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
 </p>
-
 
 <p align="center"><i>“Sadelik, en yüksek karmaşıklık seviyesidir.” – Steve Jobs</i></p>
 
