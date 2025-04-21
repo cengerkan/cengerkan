@@ -18,7 +18,7 @@
 ## 🧰 Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,react,nextjs,js,html,css,bootstrap,git,github,vscode,pycharm,postgres,mysql,flask" />
+  <img src="https://skillicons.dev/icons?i=python,php,react,nextjs,js,html,css,bootstrap,git,github,vscode,pycharm,postgres,mysql" />
 </p>
 
 ---
@@ -33,15 +33,10 @@
 
 ---
 
-## 📂 Öne Çıkan Projeler
+<div align="center"> <a href="https://akbis.osmaniye.edu.tr/@erkandeveci" target="_blank"> <img src="https://img.shields.io/badge/AkademikBilgi%20Sistemi-Ziyaret%20Et-blueviolet?style=for-the-badge&logo=github" alt="Akademik Bilgi Sistemi"> </a> </div>
 
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|--------------|
-| 🔬 **Brain Tumor Detection** | U-Net ile beyin MR görüntülerinden tümör segmentasyonu | `PyTorch`, `OpenCV`, `MedPy` |
-| ⚡ **Quantum Image Classifier** | Qiskit ile kuantum destekli görüntü sınıflandırma | `Qiskit`, `PennyLane`, `Scikit-learn` |
-| 🧱 **Deprem Hasar Tespiti** | YOLOv8 ile duvarlardaki çatlak ve deliklerin tespiti | `YOLOv8`, `LabelImg`, `Ultralytics` |
-| 🌐 **AI Destekli Klinik DSS** | Karar destek sistemi ile hastalık tahmini | `Flask`, `CNN`, `Pandas`, `Matplotlib` |
 
----
+<p align="center"> <a href="mailto:erkandeveciceng@gmail.com"><img src="https://img.shields.io/badge/Eposta-Darkblue?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://tr.linkedin.com/in/erkan-deveci-364257a8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cengerkan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 
-<p align="center"> <a href="mailto:erkan@example.com"><img src="https://img.shields.io/badge/Eposta-Darkblue?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/cengerkan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cengerkan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
+
+<p align="center"><i>“Sadelik, en yüksek karmaşıklık seviyesidir.” – Steve Jobs</i></p> ```
