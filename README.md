@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://senin-linkin.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/METU_logo.svg/320px-METU_logo.svg.png" height="40">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/METU_logo.svg/320px-METU_logo.svg.png](https://www.osmaniye.edu.tr/assets/img/logo-beyaz.svg)" height="40">
     <br>
     <img src="https://img.shields.io/badge/AkademikBilgi%20Sistemi-Ziyaret%20Et-darkred?style=for-the-badge">
   </a>
