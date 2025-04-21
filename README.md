@@ -32,9 +32,11 @@
 </p>
 
 ---
-
-<div align="center"> <a href="https://akbis.osmaniye.edu.tr/@erkandeveci" target="_blank"> <img src="https://img.shields.io/badge/AkademikBilgi%20Sistemi-Ziyaret%20Et-blueviolet?style=for-the-badge&logo=github" alt="Akademik Bilgi Sistemi"> </a> </div>
-
+<div align="center">
+  <a href="https://akbis.osmaniye.edu.tr/@erkandeveci" target="_blank">
+    <img src="https://img.shields.io/badge/AkademikBilgi%20Sistemi-Ziyaret%20Et-0057B7?style=for-the-badge&logo=gradle&logoColor=white" alt="Akademik Bilgi Sistemi">
+  </a>
+</div><br>
 
 <p align="center"> <a href="mailto:erkandeveciceng@gmail.com"><img src="https://img.shields.io/badge/Eposta-Darkblue?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://tr.linkedin.com/in/erkan-deveci-364257a8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cengerkan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 
