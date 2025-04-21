@@ -63,6 +63,9 @@
     <img src="https://img.shields.io/badge/Eposta-darkblue?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
 
+<a href="mailto:erkandeveciceng@gmail.com">
+<img src="https://img.shields.io/badge/AkademikBilgi%20Sistemi-Ziyaret%20Et-darkred?style=for-the-badge">
+</a> 
 
   
   <a href="https://tr.linkedin.com/in/erkan-deveci-364257a8">
