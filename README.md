@@ -44,11 +44,4 @@
 
 ---
 
-## 📌 Nasıl Başlanır?
-
-```bash
-# Gerekli bağımlılıkları yükleyin
-pip install -r requirements.txt
-
-# Ana Python dosyasını çalıştırın
-python app.py
+<p align="center"> <a href="mailto:erkan@example.com"><img src="https://img.shields.io/badge/Eposta-Darkblue?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/cengerkan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cengerkan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
