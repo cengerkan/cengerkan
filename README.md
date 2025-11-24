@@ -72,12 +72,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
 
-  <p align="center">
-  <a href="https://bilgisayargormesi.net" target="_blank">
-    <img src="https://img.shields.io/badge/Web%20Sitem-bilgisayargormesi.net-black?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
 </p>
 
+  <p align="center">
+  <a href="https://bilgisayargormesi.net" target="_blank">
+    <img width="283" height="194" alt="image" src="https://github.com/user-attachments/assets/19b27fee-0ad8-4348-802b-24a7bf35bde5" style="border-radius:8px;">/>
+ 
+  </a>
 </p>
 
 <p align="center"><i>“Sadelik, en yüksek karmaşıklık seviyesidir.” – Steve Jobs</i></p>
