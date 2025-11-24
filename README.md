@@ -76,7 +76,7 @@
 
   <p align="center">
   <a href="https://bilgisayargormesi.net" target="_blank">
-    <img width="116" height="80" alt="image" src="https://github.com/user-attachments/assets/19b27fee-0ad8-4348-802b-24a7bf35bde5" style="border-radius:18;">
+    <img width="116" height="80" alt="image" src="https://github.com/user-attachments/assets/19b27fee-0ad8-4348-802b-24a7bf35bde5" style="border-radius:18px;">
   </a><br>
       <a href="https://bilgisayargormesi.net" target="_blank">Kişisel Web Adresim</a>
 </p>
