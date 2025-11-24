@@ -76,8 +76,8 @@
 
   <p align="center">
   <a href="https://bilgisayargormesi.net" target="_blank">
-    <img width="283" height="194" alt="image" src="https://github.com/user-attachments/assets/19b27fee-0ad8-4348-802b-24a7bf35bde5" style="border-radius:8px;">/>
- 
+    <img width="116" height="80" alt="image" src="https://github.com/user-attachments/assets/19b27fee-0ad8-4348-802b-24a7bf35bde5" style="border-radius:8px;">
+    Kişisel Web Adresim
   </a>
 </p>
 
