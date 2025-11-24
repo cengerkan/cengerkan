@@ -71,6 +71,13 @@
   <a href="https://tr.linkedin.com/in/erkan-deveci-364257a8">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
+
+  <p align="center">
+  <a href="https://bilgisayargormesi.net" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20Sitem-bilgisayargormesi.net-black?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
 </p>
 
 <p align="center"><i>“Sadelik, en yüksek karmaşıklık seviyesidir.” – Steve Jobs</i></p>
