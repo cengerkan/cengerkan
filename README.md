@@ -83,3 +83,13 @@
 
 <p align="center"><i>“Sadelik, en yüksek karmaşıklık seviyesidir.” – Steve Jobs</i></p>
 
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=cengerkan&show_icons=true&theme=radical">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=cengerkan&show_icons=true&theme=radical"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cengerkan&layout=pie&theme=radical">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengerkan&layout=pie&theme=radical"/>
+  </a>
+</p>
+
