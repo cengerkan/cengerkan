@@ -51,7 +51,7 @@
 
 
 <div align="center">
-  <a href="https://akbis.osmaniye.edu.tr/@erkandeveci">
+  <a href="https://akbis.osmaniye.edu.tr/profil-erkandeveci">
     <img src="https://upload.wikimedia.org/wikipedia/tr/8/84/Osmaniye_Korkut_Ata_%C3%9Cniversitesi.jpg" height="80" style="border-radius:8px;"><br>
     <img src="https://img.shields.io/badge/Akademik%20Bilgi%20Sistemi-darkred?style=for-the-badge">
  
